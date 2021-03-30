@@ -31,3 +31,4 @@ int main() {
 	printf("The concatenated string = %s", c);
 	return 0;
 }
+
